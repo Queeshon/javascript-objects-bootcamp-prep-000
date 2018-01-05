@@ -1,1 +1,1 @@
-var playlist = {Kendrick Lamar: 'Bitch'}
+var playlist = {object}
